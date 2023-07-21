@@ -1,0 +1,25 @@
+{
+    "faction": "/r/tf2",
+    "contact": "",
+    "notifications": "?????",
+    "templates": [
+        {
+            "name": "BlueCrab",
+            "sources": [
+                "https://github.com/bojandam/tf2Template/blob/main/BLUE_CRAB.png"
+            ],
+            "x": -361,
+            "y": 303
+        }
+    ],
+    "whitelist": [
+        {
+            
+        }
+    ],
+    "blacklist": [
+        {
+            
+        }
+    ]
+}
